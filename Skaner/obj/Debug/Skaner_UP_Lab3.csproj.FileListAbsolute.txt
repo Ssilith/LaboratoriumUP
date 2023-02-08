@@ -1,0 +1,12 @@
+D:\SkanerWIA-master\SkanerWIA-master\bin\Debug\UP3Jazda.exe.config
+D:\SkanerWIA-master\SkanerWIA-master\bin\Debug\UP3Jazda.exe
+D:\SkanerWIA-master\SkanerWIA-master\bin\Debug\UP3Jazda.pdb
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\Interop.WIA.dll
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\Skaner_UP_Lab3.csproj.ResolveComReference.cache
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\UP3Jazda.Properties.Resources.resources
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\Skaner_UP_Lab3.csproj.GenerateResource.cache
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\Skaner_UP_Lab3.csproj.CoreCompileInputs.cache
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\UP3Jazda.exe
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\UP3Jazda.pdb
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\Skaner_UP_Lab3.csprojAssemblyReference.cache
+D:\SkanerWIA-master\SkanerWIA-master\obj\Debug\Latwiutko.Form1.resources
