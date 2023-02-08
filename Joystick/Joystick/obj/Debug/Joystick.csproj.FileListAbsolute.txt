@@ -1,0 +1,16 @@
+D:\Joystick\Joystick\bin\Debug\JoystickProgram.exe.config
+D:\Joystick\Joystick\bin\Debug\JoystickProgram.exe
+D:\Joystick\Joystick\bin\Debug\JoystickProgram.pdb
+D:\Joystick\Joystick\bin\Debug\SharpDX.DirectInput.dll
+D:\Joystick\Joystick\bin\Debug\SharpDX.dll
+D:\Joystick\Joystick\bin\Debug\SharpDX.pdb
+D:\Joystick\Joystick\bin\Debug\SharpDX.DirectInput.pdb
+D:\Joystick\Joystick\bin\Debug\SharpDX.DirectInput.xml
+D:\Joystick\Joystick\obj\Debug\Joystick.csprojAssemblyReference.cache
+D:\Joystick\Joystick\obj\Debug\JoystickProgram.JoystickForm.resources
+D:\Joystick\Joystick\obj\Debug\JoystickProgram.Properties.Resources.resources
+D:\Joystick\Joystick\obj\Debug\Joystick.csproj.GenerateResource.cache
+D:\Joystick\Joystick\obj\Debug\Joystick.csproj.CoreCompileInputs.cache
+D:\Joystick\Joystick\obj\Debug\Joystick.csproj.CopyComplete
+D:\Joystick\Joystick\obj\Debug\JoystickProgram.exe
+D:\Joystick\Joystick\obj\Debug\JoystickProgram.pdb

@@ -1,0 +1,12 @@
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\bin\Debug\SilnkKrokowy.exe.config
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\bin\Debug\SilnkKrokowy.exe
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\bin\Debug\SilnkKrokowy.pdb
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\bin\Debug\FTD2XX_NET.dll
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\obj\Debug\SilnkKrokowy.csprojAssemblyReference.cache
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\obj\Debug\SilnkKrokowy.Form1.resources
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\obj\Debug\SilnkKrokowy.Properties.Resources.resources
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\obj\Debug\SilnkKrokowy.csproj.GenerateResource.cache
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\obj\Debug\SilnkKrokowy.csproj.CoreCompileInputs.cache
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\obj\Debug\SilnkKrokowy.csproj.CopyComplete
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\obj\Debug\SilnkKrokowy.exe
+C:\Users\lab\Downloads\SilnikKrokowy-master\SilnkKrokowy\obj\Debug\SilnkKrokowy.pdb
